@@ -50,6 +50,9 @@ Connecting and programming an electronic circuit containing 6 servo motors on Ti
   
 ![TheElectronicCircle lm](https://github.com/iSarh/ElectronicCircleWith6ServoMotors/assets/63901303/808d0853-4a34-4e60-a566-bd6023337552)
 
+
+
   
 
- 
+https://github.com/iSarh/ElectronicCircleWith6ServoMotors/assets/63901303/634e0585-d3f0-42da-bfe6-bb5f7dc88df6
+
