@@ -1,12 +1,12 @@
 # ElectronicCircleWith6ServoMotors
 Connecting and programming an electronic circuit containing 6 servo motors on Tinkercad
-#المتطلبات :
+# المتطلبات :
 - سيرفو يدور 180
 - بطارية 9V
 - مثبت LM7805
 - اردوينو
 
-#الشرح
+# الشرح 
 
   كل محرك سيرفو يحتاج مايقارب 5V ولا يمكن للاردوينو ان يشغل 6 محركات سيرفو بنفسه سيودي الى إذى منفذ USB واللوحه، لذا نحتاج مصدر طاقة خارجي "بطارية 9V"
 
