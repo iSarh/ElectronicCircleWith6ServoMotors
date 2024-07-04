@@ -1,7 +1,7 @@
 # ElectronicCircleWith6ServoMotors
 Connecting and programming an electronic circuit containing 6 servo motors on Tinkercad
 
-نوصيل وبرمجة دائرة الكترونية تحتوي على 6 محركات على Tinkercad
+توصيل وبرمجة دائرة الكترونية تحتوي على 6 محركات على Tinkercad
 # المتطلبات :
 - سيرفو يدور 180
 - بطارية 9V
